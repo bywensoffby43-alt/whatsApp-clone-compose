@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">WhatsAppClone</string>
+  <string name="app_name">WensChat</string>
 
   <string name="tab_chat">Chat</string>
   <string name="tab_status">Status</string>
