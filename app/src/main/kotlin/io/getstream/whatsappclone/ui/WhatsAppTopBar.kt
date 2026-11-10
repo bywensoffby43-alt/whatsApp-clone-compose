@@ -1,4 +1,4 @@
-/* WensChat home menu. All user-facing menu text is English. */
+
 package io.getstream.whatsappclone.ui
 
 import android.content.Intent
