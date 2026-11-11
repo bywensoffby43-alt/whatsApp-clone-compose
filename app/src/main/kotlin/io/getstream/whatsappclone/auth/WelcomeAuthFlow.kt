@@ -1,4 +1,4 @@
-package io.getstream.whatsappclone.aut
+package io.getstream.whatsappclone.auth
 
 import android.graphics.BitmapFactory
 import androidx.activity.compose.rememberLauncherForActivityResult
